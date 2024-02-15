@@ -1,5 +1,5 @@
 # HBFC_Banking_Project
-“Finding out potential target customers for personal loans”
+**“Finding out potential target customers for personal loans”**
 
 In this case study, the goal of HBFC bank is to sell more personal loans to their savings account
 holders. The bank wants to start a campaign to sell the personal loans, but before that they
@@ -19,7 +19,7 @@ campaign where they successfully converted 9% of the existing “liability custo
 customers”. This has encouraged the bank to have a better targeted marketing campaign to
 increase the success ratio with minimum budget.
 
-Data description:
+### **Data description:**
 
 <img src="https://github.com/Nagesh-S-R/Banking_DataSet/assets/147719922/d47cb084-4d69-426c-87c1-5435a9bb89f1" width= 60% height=60%>
 
