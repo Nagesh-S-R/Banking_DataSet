@@ -21,5 +21,5 @@ increase the success ratio with minimum budget.
 
 Data description:
 
-![image](https://github.com/Nagesh-S-R/Banking_DataSet/assets/147719922/d47cb084-4d69-426c-87c1-5435a9bb89f1)
+<img src="https://github.com/Nagesh-S-R/Banking_DataSet/assets/147719922/d47cb084-4d69-426c-87c1-5435a9bb89f1" width= 60% height=60%>
 
